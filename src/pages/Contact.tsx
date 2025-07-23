@@ -112,7 +112,7 @@ function Contact() {
                     </div>
                     <div>
                       <h3 className="text-lg font-semibold text-black">Phone</h3>
-                      <p className="text-gray-600">1-800-PAW-PLAY (1-800-729-7529)</p>
+                      <p className="text-gray-600">1-800-WAGGY-01 (1-800-924-4901)</p>
                     </div>
                   </div>
                   
@@ -122,8 +122,8 @@ function Contact() {
                     </div>
                     <div>
                       <h3 className="text-lg font-semibold text-black">Email</h3>
-                      <p className="text-gray-600">hello@pawplay.com</p>
-                      <p className="text-gray-600">support@pawplay.com</p>
+                      <p className="text-gray-600">hello@waggy.com</p>
+                      <p className="text-gray-600">support@waggy.com</p>
                     </div>
                   </div>
                   

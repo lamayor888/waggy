@@ -26,10 +26,10 @@ function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-4xl font-black text-black mb-6">Our Story</h2>
+              At Waggy, we believe every dog deserves the highest quality toys that combine 
               <div className="space-y-4 text-gray-700 leading-relaxed">
                 <p>
-                  Founded in 2020 by dog lovers Sarah and Mike, PawPlay started with a simple 
+                  Founded in 2020 by dog lovers Sarah and Mike, Waggy started with a simple 
                   observation: most dog toys broke within days, leaving pets disappointed and 
                   owners frustrated.
                 </p>
@@ -39,7 +39,7 @@ function About() {
                   enthusiastic play sessions while remaining completely safe.
                 </p>
                 <p>
-                  Today, PawPlay is trusted by over 50,000 happy customers and their furry friends. 
+                  Today, Waggy is trusted by over 50,000 happy customers and their furry friends. 
                   Every toy we create is tested by real dogs and approved by pet professionals.
                 </p>
               </div>
@@ -115,13 +115,13 @@ function About() {
               {
                 name: "Sarah Johnson",
                 role: "Co-Founder & CEO",
-                bio: "Dog mom to three rescue pups with 10+ years in product design.",
+                bio: "Dog mom to three rescue pups and co-founder of Waggy.",
                 image: "https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=400"
               },
               {
                 name: "Mike Chen",
                 role: "Co-Founder & CTO",
-                bio: "Former engineer turned dog toy innovator with a passion for quality.",
+                bio: "Former engineer and co-founder of Waggy with a passion for quality.",
                 image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400"
               },
               {

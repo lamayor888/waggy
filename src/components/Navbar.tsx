@@ -26,7 +26,7 @@ function Navbar() {
             <div className="bg-gradient-to-r from-orange-500 to-blue-500 p-2 rounded-xl group-hover:scale-110 transition-transform duration-300">
               <Heart className="h-6 w-6 text-white" />
             </div>
-            <span className="text-2xl font-bold text-black">PawPlay</span>
+            <span className="text-2xl font-bold text-black">Waggy</span>
           </Link>
 
           {/* Desktop Navigation */}
