@@ -6,7 +6,7 @@ import { products, categories } from '../data/products';
 
 function Home() {
   const featuredProducts = products.slice(0, 4);
-  const mainCategories = categories.slice(1, 5);
+  const mainCategories = categories.slice(1, 4);
 
   return (
     <div>
