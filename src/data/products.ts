@@ -86,10 +86,6 @@ export const products: Product[] = [
 export const categories = [
   { id: 'all', name: 'All Toys', icon: '🎾' },
   { id: 'chew', name: 'Chew Toys', icon: '🦴' },
-  { id: 'squeaky', name: 'Squeaky Toys', icon: 🦆' },
-  { id: 'interactive', name: 'Interactive', icon: '🧩' },
   { id: 'plush', name: 'Plush Toys', icon: '🧸' },
-  { id: 'tug', name: 'Tug Toys', icon: '🪢' },
-  { id: 'fetch', name: 'Fetch Toys', icon: '🥏' },
-  { id: 'dental', name: 'Dental Care', icon: '🦷' }
+  { id: 'essentials', name: 'Paw Essentials', icon: '🐾' }
 ];
