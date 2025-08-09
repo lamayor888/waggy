@@ -87,5 +87,6 @@ export const categories = [
   { id: 'all', name: 'All Toys', icon: '🎾' },
   { id: 'chew', name: 'Chew Toys', icon: '🦴' },
   { id: 'plush', name: 'Plush Toys', icon: '🧸' },
-  { id: 'essentials', name: 'Paw Essentials', icon: '🐾' }
+  { id: 'essentials', name: 'Paw Essentials', icon: '🐾' },
+  { id: 'tug', name: 'Tug Toys', icon: '🪢' }
 ];
